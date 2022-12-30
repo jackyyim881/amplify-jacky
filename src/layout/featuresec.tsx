@@ -1,5 +1,5 @@
 import React from "react";
-import img from "../images/1.png";
+import img from "../images/shop1.png";
 export interface featureProps {}
 
 const featuresec: React.FunctionComponent<featureProps> = (props) => {
